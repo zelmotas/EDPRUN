@@ -1,5 +1,11 @@
 # EDP RUN
 
+
+<p align="center">
+  <img src="https://madebydesign.ca/wp-content/uploads/2012/02/post_lynx_01-700x400.jpg" alt="Image of Pionniers logo">
+</p>
+
+
 ## Introduction
 
 EDP RUN est un jeu de plateforme en 2D développé avec le moteur de jeu Unity. Le but du jeu est de naviguer à travers divers niveaux, éviter les obstacles et les ennemis et atteindre le point final.
